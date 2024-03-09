@@ -36,8 +36,14 @@ The heart of the project lies in the implementation of a machine learning model 
 
 In this section, we present the results obtained from the machine learning model, including relevant visualizations and insights. Discussion points include the significance of specific features, model performance metrics, and potential areas for improvement. Any challenges encountered during the project are thoroughly addressed.
 
-## 7. Conclusion
+## Contributors
 
-The project concludes by summarizing key findings, acknowledging limitations, and suggesting potential avenues for future research. Emphasis is placed on the broader implications of accurate EEG eye state classification and how it could impact diverse applications.
+<div align="left">
+   <a href="https://github.com/KhaledBadr07">
+    <img src="https://github.com/KhaledBadr07.png" width="100px" alt="@KhaledBadr07">
+  </a>
+
+</div>
+
 
 
